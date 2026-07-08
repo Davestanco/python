@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Abroch",
+        "level": 14,
+        "class": "Druid"
+    },
+    {
+        "name": "Raeden",
+        "level": 7,
+        "class": "Rogue"
+    },
+    {
+        "name": "Eqirax",
+        "level": 4,
+        "class": "Mage"
+    },
+    {
+        "name": "Hayth",
+        "level": 5,
+        "class": "Shaman"
+    },
+    {
+        "name": "Gramto",
+        "level": 3,
+        "class": "Warrior"
+    }
+]
